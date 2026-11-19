@@ -1,1 +1,18 @@
-{"entries":[{"date":"2026-11-18","entry_hash":"67f1a33384e4a01d56a8b50ab82c5d70a37736645ef2ccfebb9f0b1b130ed691","note":"Genesis entry","prev_hash":null,"snapshot_sha256":"cdceaa7f01fe37e66f9824cca254fb0e093750ccbf9b9cb5e2c259b2d1dcd0f5"}],"lab":"Candy's Science Lab","purpose":"Public anchor for the lab notebook notarization hash chain"}
+{
+  "lab": "Candy's Science Lab",
+  "purpose": "Public anchor for the lab notebook notarization hash chain",
+  "entries": [
+    {
+      "date": "2026-11-18",
+      "snapshot_sha256": "cdceaa7f01fe37e66f9824cca254fb0e093750ccbf9b9cb5e2c259b2d1dcd0f5",
+      "prev_hash": null,
+      "entry_hash": "67f1a33384e4a01d56a8b50ab82c5d70a37736645ef2ccfebb9f0b1b130ed691"
+    },
+    {
+      "date": "2026-11-19",
+      "snapshot_sha256": "460cacd51a86f554f7ff4c0f431cdeb6977d962ac0385d0524979b3d58b3e06f",
+      "prev_hash": "67f1a33384e4a01d56a8b50ab82c5d70a37736645ef2ccfebb9f0b1b130ed691",
+      "entry_hash": "526ee031b542549117323549101e97c8a67aa7792d77507d1d585a9fe10bf91a"
+    }
+  ]
+}
