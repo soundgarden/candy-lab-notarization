@@ -4,12 +4,12 @@ This repository publicly anchors the hash chain of Candy's Science Lab
 notebook, so anyone can verify that the lab's recorded history has not been
 silently altered after the fact.
 
-## Current chain head (genesis entry, 2026-11-18)
+## Current chain head (2026-11-19)
 
-- **Snapshot SHA-256:** `cdceaa7f01fe37e66f9824cca254fb0e093750ccbf9b9cb5e2c259b2d1dcd0f5`
-- **Chain entry hash:** `67f1a33384e4a01d56a8b50ab82c5d70a37736645ef2ccfebb9f0b1b130ed691`
-- **Previous entry:** none (genesis)
-- **Anchored:** 2026-11-18
+- **Snapshot SHA-256:** `460cacd51a86f554f7ff4c0f431cdeb6977d962ac0385d0524979b3d58b3e06f`
+- **Chain entry hash:** `526ee031b542549117323549101e97c8a67aa7792d77507d1d585a9fe10bf91a`
+- **Previous entry:** `67f1a33384e4a01d56a8b50ab82c5d70a37736645ef2ccfebb9f0b1b130ed691`
+- **Anchored:** 2026-11-19
 
 Machine-readable copy: [ANCHOR.json](ANCHOR.json)
 
