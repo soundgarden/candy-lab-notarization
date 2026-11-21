@@ -19,6 +19,12 @@
       "snapshot_sha256": "e65673351f4a201634fa3b1e7421ccbc88b761c492843b8e2d459ebd8bc72f05",
       "prev_hash": "526ee031b542549117323549101e97c8a67aa7792d77507d1d585a9fe10bf91a",
       "entry_hash": "58b4b55ca6c0528ac4ded2b6e5e83790d5ffdbf4868b21e73542b6857b7dc517"
+    },
+    {
+      "date": "2026-11-21",
+      "snapshot_sha256": "6efcd1d82490a0f89bfd93fe1597b6332ed95a5e2dbff381c3e9611989520410",
+      "prev_hash": "58b4b55ca6c0528ac4ded2b6e5e83790d5ffdbf4868b21e73542b6857b7dc517",
+      "entry_hash": "359173c56e27342a8fc1ee730d1fc98c31b7366adc36175fc85b547f2378384e"
     }
   ]
 }
